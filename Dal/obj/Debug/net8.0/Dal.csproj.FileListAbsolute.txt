@@ -1,0 +1,82 @@
+C:\Users\The user\Desktop\PcSharp\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\The user\Desktop\PcSharp\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\PcSharp\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\PcSharp\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\The user\Desktop\PcSharp1\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\The user\Desktop\PcSharp1\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\PcSharp1\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\PcSharp1\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\The user\Desktop\c#\PcSharp\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\Dal\obj\Debug\net8.0\ref\Dal.dll
+E:\PcSharp\Dal\bin\Debug\net8.0\Dal.deps.json
+E:\PcSharp\Dal\bin\Debug\net8.0\Dal.dll
+E:\PcSharp\Dal\bin\Debug\net8.0\Dal.pdb
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.dll
+E:\PcSharp\Dal\obj\Debug\net8.0\refint\Dal.dll
+E:\PcSharp\Dal\obj\Debug\net8.0\Dal.pdb
+E:\PcSharp\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\PcSharp\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\PcSharp\Dal\bin\Debug\net8.0\Dal.dll
+D:\PcSharp\Dal\bin\Debug\net8.0\Dal.pdb
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.dll
+D:\PcSharp\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\PcSharp\Dal\obj\Debug\net8.0\Dal.pdb
+D:\PcSharp\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\Dal\obj\Debug\net8.0\ref\Dal.dll

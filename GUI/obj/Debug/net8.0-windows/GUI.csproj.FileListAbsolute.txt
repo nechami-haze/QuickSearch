@@ -1,0 +1,134 @@
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.dll
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.pdb
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.dll
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.pdb
+C:\Users\The user\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GUI.resources
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.dll
+C:\Users\The user\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\Bll.dll
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\Dal.dll
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\MyDto.dll
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\Bll.pdb
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\Dal.pdb
+C:\Users\The user\Desktop\PcSharp1\GUI\bin\Debug\net8.0-windows\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.GUI.resources
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\The user\Desktop\PcSharp1\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.pdb
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.pdb
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.pdb
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GUI.resources
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\JsonConverter.Abstractions.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\JsonConverter.Newtonsoft.Json.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\The user\Desktop\c#\PcSharp\GUI\bin\Debug\net8.0-windows\Stef.Validation.dll
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.dll
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\JsonConverter.Abstractions.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\JsonConverter.Newtonsoft.Json.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Stef.Validation.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GUI.resources
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.exe
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\GUI.pdb
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\JsonConverter.Abstractions.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\JsonConverter.Newtonsoft.Json.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\Stef.Validation.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.dll
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\Bll.pdb
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\Dal.pdb
+E:\PcSharp\GUI\bin\Debug\net8.0-windows\MyDto.pdb
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GUI.resources
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+E:\PcSharp\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources
+C:\Users\The user\Desktop\c#\PcSharp\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources

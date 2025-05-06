@@ -1,0 +1,119 @@
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Bll.deps.json
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\Bll.deps.json
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\PcSharp1\SearchProject\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\PcSharp1\SearchProject\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\Bll.deps.json
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\The user\Desktop\c#\PcSharp\SearchProject\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Bll.deps.json
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Bll.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Bll.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\Dal.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\Bll.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\SearchProject\obj\Debug\net8.0\ref\Bll.dll
+E:\PcSharp\SearchProject\bin\Debug\net8.0\Bll.deps.json
+E:\PcSharp\SearchProject\bin\Debug\net8.0\Bll.dll
+E:\PcSharp\SearchProject\bin\Debug\net8.0\Bll.pdb
+E:\PcSharp\SearchProject\bin\Debug\net8.0\Dal.dll
+E:\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.dll
+E:\PcSharp\SearchProject\bin\Debug\net8.0\Dal.pdb
+E:\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.pdb
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.dll
+E:\PcSharp\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+E:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.pdb
+E:\PcSharp\SearchProject\obj\Debug\net8.0\ref\Bll.dll
+D:\PcSharp\SearchProject\bin\Debug\net8.0\Bll.deps.json
+D:\PcSharp\SearchProject\bin\Debug\net8.0\Bll.dll
+D:\PcSharp\SearchProject\bin\Debug\net8.0\Bll.pdb
+D:\PcSharp\SearchProject\bin\Debug\net8.0\Dal.dll
+D:\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.dll
+D:\PcSharp\SearchProject\bin\Debug\net8.0\Dal.pdb
+D:\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.pdb
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.dll
+D:\PcSharp\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+D:\PcSharp\SearchProject\obj\Debug\net8.0\Bll.pdb
+D:\PcSharp\SearchProject\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\Bll.deps.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\SearchProject\obj\Debug\net8.0\ref\Bll.dll

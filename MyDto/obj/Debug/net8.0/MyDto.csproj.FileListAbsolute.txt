@@ -1,0 +1,82 @@
+C:\Users\The user\Desktop\PcSharp\MyDto\bin\Debug\net8.0\MyDto.deps.json
+C:\Users\The user\Desktop\PcSharp\MyDto\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\PcSharp\MyDto\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp\MyDto\obj\Debug\net8.0\ref\MyDto.dll
+C:\Users\The user\Desktop\PcSharp1\MyDto\bin\Debug\net8.0\MyDto.deps.json
+C:\Users\The user\Desktop\PcSharp1\MyDto\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\PcSharp1\MyDto\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\PcSharp1\MyDto\obj\Debug\net8.0\ref\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\bin\Debug\net8.0\MyDto.deps.json
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\ref\MyDto.dll
+C:\Users\The user\Desktop\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\bin\Debug\net8.0\MyDto.deps.json
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\bin\Debug\net8.0\MyDto.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\bin\Debug\net8.0\MyDto.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\MyDto.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\MyDto\obj\Debug\net8.0\ref\MyDto.dll
+E:\PcSharp\MyDto\bin\Debug\net8.0\MyDto.deps.json
+E:\PcSharp\MyDto\bin\Debug\net8.0\MyDto.dll
+E:\PcSharp\MyDto\bin\Debug\net8.0\MyDto.pdb
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.AssemblyReference.cache
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.dll
+E:\PcSharp\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+E:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.pdb
+E:\PcSharp\MyDto\obj\Debug\net8.0\ref\MyDto.dll
+D:\PcSharp\MyDto\bin\Debug\net8.0\MyDto.deps.json
+D:\PcSharp\MyDto\bin\Debug\net8.0\MyDto.dll
+D:\PcSharp\MyDto\bin\Debug\net8.0\MyDto.pdb
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.AssemblyReference.cache
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.dll
+D:\PcSharp\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+D:\PcSharp\MyDto\obj\Debug\net8.0\MyDto.pdb
+D:\PcSharp\MyDto\obj\Debug\net8.0\ref\MyDto.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\bin\Debug\net8.0\MyDto.deps.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.AssemblyInfo.cs
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\refint\MyDto.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\MyDto\obj\Debug\net8.0\ref\MyDto.dll

@@ -1,0 +1,133 @@
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\JsonConverter.Abstractions.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\JsonConverter.Newtonsoft.Json.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Stef.Validation.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Bll.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Dal.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\MyDto.dll
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\MyDto.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Bll.pdb
+C:\Users\משתמש חדש\Desktop\PcSharp\WebApi\bin\Debug\net8.0\Dal.pdb
+D:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\PcSharp\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\JsonConverter.Abstractions.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\JsonConverter.Newtonsoft.Json.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Stef.Validation.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Bll.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Dal.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\MyDto.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\MyDto.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Bll.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\bin\Debug\net8.0\Dal.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\The user\Desktop\שנה ב\c#\PcSharp\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\PcSharp\WebApi\bin\Debug\net8.0\appsettings.json
+E:\PcSharp\WebApi\bin\Debug\net8.0\WebApi.exe
+E:\PcSharp\WebApi\bin\Debug\net8.0\WebApi.deps.json
+E:\PcSharp\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+E:\PcSharp\WebApi\bin\Debug\net8.0\WebApi.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\WebApi.pdb
+E:\PcSharp\WebApi\bin\Debug\net8.0\JsonConverter.Abstractions.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\JsonConverter.Newtonsoft.Json.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Stef.Validation.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Bll.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\Dal.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\MyDto.dll
+E:\PcSharp\WebApi\bin\Debug\net8.0\MyDto.pdb
+E:\PcSharp\WebApi\bin\Debug\net8.0\Bll.pdb
+E:\PcSharp\WebApi\bin\Debug\net8.0\Dal.pdb
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\PcSharp\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PcSharp\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.dll
+E:\PcSharp\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.pdb
+E:\PcSharp\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+E:\PcSharp\WebApi\obj\Debug\net8.0\ref\WebApi.dll
